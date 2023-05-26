@@ -13,7 +13,7 @@ Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and 
 
 Step 2: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME_breakout_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME_breakout_demo.py)
 
-Step 3: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device, 
+Step 3: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device with suitable com port, 
 
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr1.png">
 
