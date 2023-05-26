@@ -13,9 +13,29 @@ Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and 
 
 Step 2: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME_breakout_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME_breakout_demo.py)
 
+Step 3: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device, 
 
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr1.png">
 
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr2.png">
 
+Now Transfer the library file to RPi Pico 
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr3.png">
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr4.png">
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr5.png">
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr6.png">
+
+With demo code open in Thonny Ide click on green button to run demo code 
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr7.png">
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/output.png">
+
+To run standalone transfer demo code file as main.py inside Pico as shown below 
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/pico_folderview.png">
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/BME280_Breakout/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mecahnical Data](https://github.com/sbcshop/BME280_Breakout/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
