@@ -23,6 +23,8 @@ Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and 
 Step 2: Connect Pico with BME280 breakout as shown below.
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/picow-pinout.svg" width = "" height ="">
 
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/interfacing_pico_bme280.png" width = "538" height ="258">
+
 **Interfacing Pins:**
 
 | Pico Pins | BME280 Breakout |
