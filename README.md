@@ -20,9 +20,22 @@ With its 3.3V compatibility and I2C interface, you can easily incorporate it int
 ## Interfacing with RPi Pico/Pico W
 Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and install it.
 
-Step 2: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME_breakout_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME_breakout_demo.py)
+Step 2: Connect Pico with BME280 breakout as shown below.
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/picow-pinout.svg" width = "" height ="">
 
-Step 3: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device with suitable com port, 
+**Interfacing Pins:**
+
+| Pico Pins | BME280 Breakout |
+|---|---|
+3.3V      | 3.3V            |
+GPIO21    | SCL             |
+GPIO20    | SDA             |
+GND       | GND             |
+
+
+Step 3: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME_breakout_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME_breakout_demo.py)
+
+Step 4: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device with suitable com port, 
 
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr1.png">
 
