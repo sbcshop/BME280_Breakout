@@ -35,7 +35,7 @@ GPIO20    | SDA             |
 GND       | GND             |
 
 
-Step 3: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME_breakout_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME_breakout_demo.py)
+Step 3: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME280_Pico_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pico_demo.py)
 
 Step 4: Open both files in Thonny IDE, Connect Pico to laptop/PC and select device with suitable com port, 
 
@@ -60,6 +60,34 @@ With demo code open in Thonny Ide click on green button to run demo code
 
 To run standalone transfer demo code file as main.py inside Pico as shown below 
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/pico_folderview.png">
+
+Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and install it.
+
+Step 2: Connect Pico with BME280 breakout as shown below.
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/picow-pinout.svg" width = "" height ="">
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/interfacing_pico_bme280.png" width = "538" height ="258">
+
+## Interfacing with Raspberry Pi
+**Interfacing Pins:**
+
+| Raspberry Pi Pins | BME280 Breakout |
+|---|---|
+3.3V     | 3.3V            |
+GPIO3    | SCL             |
+GPIO2    | SDA             |
+GND      | GND             |
+
+
+Step 3: Download code files [BME280_Pidemo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pidemo.py) from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples).  
+OR
+wget https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pidemo.py
+
+Step 4: Run file using python Terminal shown as below 
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/scr1.png">
+
+
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/BME280_Breakout/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mecahnical Data](https://github.com/sbcshop/BME280_Breakout/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
