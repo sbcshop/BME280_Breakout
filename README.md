@@ -81,7 +81,7 @@ GND      | GND             |
 
 Step 3: Download code files [BME280_Pidemo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pidemo.py) from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples).  
 
-Step 4: Run file using python IDE or Terminal shown as below 
+Step 4: Run file using python IDE or Terminal as shown below 
 
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/python_ide_run.png">
 
