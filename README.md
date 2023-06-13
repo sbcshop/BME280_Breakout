@@ -61,12 +61,6 @@ With demo code open in Thonny Ide click on green button to run demo code
 To run standalone transfer demo code file as main.py inside Pico as shown below 
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/pico_folderview.png">
 
-Step 1: Download Thonny IDE from [link](https://thonny.org/) as per your OS and install it.
-
-Step 2: Connect Pico with BME280 breakout as shown below.
-<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/picow-pinout.svg" width = "" height ="">
-
-<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/interfacing_pico_bme280.png" width = "538" height ="258">
 
 ## Interfacing with Raspberry Pi
 **Interfacing Pins:**
