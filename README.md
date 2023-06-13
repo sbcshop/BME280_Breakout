@@ -27,12 +27,12 @@ Step 2: Connect Pico with BME280 breakout as shown below.
 
 **Interfacing Pins:**
 
-| Pico Pins | BME280 Breakout |
-|---|---|
-3.3V      | 3.3V            |
-GPIO21    | SCL             |
-GPIO20    | SDA             |
-GND       | GND             |
+| Pico Pins | BME280 Breakout | Function |
+|---|---|---|
+3.3V      | 3.3V  |Power supply for module |
+GPIO21    | SCL   | Serial Clock pin for I2C interfacing|
+GPIO20    | SDA   | Serial Data pin for I2C interfacing|
+GND       | GND   |Ground pin |
 
 
 Step 3: Download code files from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples) folder, you will find [bme280.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/bme280.py) library and [BME280_Pico_demo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pico_demo.py)
@@ -65,12 +65,12 @@ To run standalone transfer demo code file as main.py inside Pico as shown below
 ## Interfacing with Raspberry Pi
 **Interfacing Pins:**
 
-| Raspberry Pi Pins | BME280 Breakout |
-|---|---|
-3.3V     | 3.3V            |
-GPIO3    | SCL             |
-GPIO2    | SDA             |
-GND      | GND             |
+| Raspberry Pi Pins | BME280 Breakout | Function |
+|---|---|---|
+3.3V      | 3.3V  |Power supply for module |
+GPIO3    | SCL    | Serial Clock pin for I2C interfacing |
+GPIO2    | SDA    | Serial Data pin for I2C interfacing |
+GND      | GND    |Ground pin |
 
 
 Step 3: Download code files [BME280_Pidemo.py](https://github.com/sbcshop/BME280_Breakout/blob/main/examples/BME280_Pidemo.py) from [examples](https://github.com/sbcshop/BME280_Breakout/tree/main/examples).  
