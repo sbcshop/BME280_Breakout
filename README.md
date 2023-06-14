@@ -59,15 +59,18 @@ With demo code open in Thonny Ide click on green button to run demo code
 <img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/output.png">
 
 To run standalone transfer demo code file as main.py inside Pico as shown below 
-<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/pico_folderview.png">
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/pico_folderview.png" width = "468" height = "293">
 
 
 ## Interfacing with Raspberry Pi
+
+<img src="https://github.com/sbcshop/BME280_Breakout/blob/main/images/rpi_bme280_connection.jpg" width = "468" height = "293">
+
 **Interfacing Pins:**
 
 | Raspberry Pi Pins | BME280 Breakout | Function |
 |---|---|---|
-3.3V      | 3.3V  |Power supply for module |
+3.3V     | 3.3V   |Positive supply for module |
 GPIO3    | SCL    | Serial Clock pin for I2C interfacing |
 GPIO2    | SDA    | Serial Data pin for I2C interfacing |
 GND      | GND    |Ground pin |
