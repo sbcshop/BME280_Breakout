@@ -94,17 +94,17 @@ OR
   - [BME280 Datasheet](https://github.com/sbcshop/BME280_Breakout/blob/main/Documents/BME280-Datasheet.pdf)
 
 ## Related Products
-  * [1.28" Round LCD Breakout](https://shop.sb-components.co.uk/products/1-28-round-lcd-breakout?_pos=2&_sid=aa1a4c610&_ss=r) 
+  * [Dual USB Breakout](https://shop.sb-components.co.uk/products/dual-usb-breakout?_pos=2&_sid=47418e842&_ss=r) 
    
-     ![1.28" Round LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_a58fb20c-7cc7-4908-bfca-549b28c721b6.png?v=1677234693&width=300)   
+     ![dual-usb-breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/DualUSBBreakout3.png?v=1676034428&width=300)   
+
+  * [MicroSD Card Breakout](https://shop.sb-components.co.uk/products/sd-card-breakout?_pos=1&_sid=be5068526&_ss=r) 
+   
+     ![SDCardBreakout](https://cdn.shopify.com/s/files/1/1217/2104/products/SDCardBreakout.png?v=1643699904&width=300) 
 
   * [1.3" LCD Breakout](https://shop.sb-components.co.uk/products/1-3-lcd-breakout?_pos=2&_sid=23eee937e&_ss=r) 
    
      ![1.3" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=300) 
-  
-  * [1.14" LCD Breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout?_pos=1&_sid=8dab247c9&_ss=r) 
-   
-     ![1.14" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/1.14InchLCDBreakout.png?v=1622801461&width=300) 
 
  
 ## Product License
